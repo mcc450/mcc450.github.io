@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Completed Projects
 
 [Bellabeat Case Study - Excel](/sample_page)
 <img src="images/DashImageBB.jpg?raw=true"/>
