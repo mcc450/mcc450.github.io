@@ -5,15 +5,15 @@
 ### Category Name 1 
 
 [Bellabeat Case Study - Excel](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DashImageBB.jpg?raw=true"/>
 
 ---
 [Denver AirBnB Market Analysis - Tableau](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DenverAIrBnBDashImage.jpg?raw=true"/>
 
 ---
 [Bike Sales Dashboard - Excel](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BikeSalesImage.jpg?raw=true"/>
 
 ---
 
