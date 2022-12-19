@@ -4,15 +4,15 @@
 
 ## Completed Projects
 
-###[Bellabeat Case Study - Excel](/sample_page)
+[Bellabeat Case Study - Excel](/sample_page)
 <img src="images/DashImageBB.jpg?raw=true"/>
 
 ---
-###[Denver AirBnB Market Analysis - Tableau](/pdf/sample_presentation.pdf)
+[Denver AirBnB Market Analysis - Tableau](/pdf/sample_presentation.pdf)
 <img src="images/DenverAirBnBDashImage.jpg?raw=true"/>
 
 ---
-###[Bike Sales Dashboard - Excel](http://example.com/)
+[Bike Sales Dashboard - Excel](http://example.com/)
 <img src="images/BikeSalesImage.jpg?raw=true"/>
 
 ---
