@@ -9,7 +9,7 @@
 
 ---
 [Denver AirBnB Market Analysis - Tableau](/pdf/sample_presentation.pdf)
-<img src="images/DenverAIrBnBDashImage.jpg?raw=true"/>
+<img src="images/DenverAirBnBDashImage.jpg?raw=true"/>
 
 ---
 [Bike Sales Dashboard - Excel](http://example.com/)
