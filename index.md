@@ -16,7 +16,7 @@
 
 ## Completed Projects
 
-[Bellabeat Case Study - Excel](/sample_page)
+[Bellabeat Case Study - Excel](/Bellabeat_Case_Study)
 <img src="images/DashImageBB.jpg?raw=true"/>
 
 ---
@@ -31,7 +31,7 @@
 
 ### Quick Links
 
-- [Bellabeat Case Study - Excel](http://example.com/)
+- [Bellabeat Case Study - Excel](/Bellabeat_Case_Study)
 - [Denver AirBnB Market Analysis - Tableau](http://example.com/)
 - [Bike Sales Dashboard - Excel](http://example.com/)
 
