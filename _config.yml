@@ -9,12 +9,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/michael-mccarthy-698000a5">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-F2LNSZNQXH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-F2LNSZNQXH');
-</script>
+google_analytics: UA-252457404-1
