@@ -276,6 +276,3 @@ Below are the recommendations for the Bellabeat app.</p>
     <td>4. Device “wearability”</td>
     <td><p> Users wore the device for an average of 67.5% of the day and only 29% of users wore their device more than 83% of the days recorded.</p>
         <p> The design of the device should be continuously improved to make sure the battery is long lasting, device can be worn for all occasions, water/damage resistant, and comfort.<p/>
-</td>
-  </tr>
-</table>
