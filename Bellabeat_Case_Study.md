@@ -1,6 +1,7 @@
 # Bellabeat Case Study in Excel
 
-**Project description:** This is a capstone analysis project for the Google Data Analytics Course on Coursera. The following document details the analysis of Fitbit data using Excel to make business recommendations for a new and growing fitness technology company called Bellabeat. The Excel sheet and accompanying dashboard are available as well.
+**Project description:** 
+<p>This is a capstone analysis project for the Google Data Analytics Course on Coursera. The following document details the analysis of Fitbit data using Excel to make business recommendations for a new and growing fitness technology company called Bellabeat. The Excel sheet and accompanying dashboard are available as well.</p>
 
 ## 1. Summary
 
@@ -11,11 +12,13 @@ Bellabeat offers wearable smart devices as a watch, water bottle, and bracelet, 
 
 ## 2. Ask
 ### 2.1 Business Task
-Identify trends in how consumers use non-Bellabeat smart devices and apply insights to Bellabeat's marketing strategy.
-Stakeholders
-<ul>Urška Sršen - Co founder and Chief Creative Officer. Looking for growth opportunities through analysis of fitness data</ul>
-<ul>Sando Mur - Mathematician and Co-founder. Executive team.</ul>
-<ul>Bellabeat Marketing Analytics Team</ul>
+<p>Identify trends in how consumers use non-Bellabeat smart devices and apply insights to Bellabeat's marketing strategy.
+Stakeholders</p>
+<ul>
+<li>Urška Sršen - Co founder and Chief Creative Officer. Looking for growth opportunities through analysis of fitness data</li>
+<li>Sando Mur - Mathematician and Co-founder. Executive team.</li>
+<li>Bellabeat Marketing Analytics Team</li>
+</ul>
 
 ### 2.2 Initial Questions
 1.	Most popular day for logged activities?
@@ -39,9 +42,11 @@ The data source used is Fitbit Fitness Tracker data. This dataset is stored in K
 ### 3.2 Dataset Organization
 The data is split up into 18 CSV documents. Each document either holds a different type of data collected or it holds data collected using different time frames. For example, there is a Daily Calories, Hourly Calories, and Minute Calories.
 Files being used are:
-<ul>DailyActivity_merged</ul>
-<ul>hourlySteps_merged</ul>
-<ul>sleepDay_merged</ul>
+<ul>
+<li>DailyActivity_merged</li>
+<li>hourlySteps_merged</li>
+<li>sleepDay_merged</li>
+</ul>
 
 <table>
   <tr>
@@ -134,39 +139,49 @@ The dataset is limited by its small size (30 users) and could be subject to samp
 ## 4. Process
 ### 4.1 Data Cleaning and Formatting
 Dates and timestamps are inconsistent across datasets. All date and timestamp records will be separate date and timestamp into separate columns.
-<ul>sleepDay_merged, remove timestamp from SleepDay.</ul>
-<ul>hourlySteps_merged, separate timestamp and date. Date and Time will have new columns.</ul>
-<ul>Check – all dates are in format of m/d/y.</ul>
+<ul>
+<li>sleepDay_merged, remove timestamp from SleepDay.</li>
+<li>hourlySteps_merged, separate timestamp and date. Date and Time will have new columns.</li>
+<li>Check – all dates are in format of m/d/y.</li>
+</ul>
 
 ### 4.2 Duplicates
 Check data for duplicates and remove any that exist.
-<ul>3 duplicates found in sleepDay and removed</ul>
+<ul>
+  <li>3 duplicates found in sleepDay and removed</li>
+</ul>
 
 ### 4.3 Nulls
 Check data for Nulls and resolve any that exist.
-<ul>No Nulls exist.</ul>
+<ul>
+  <li>No Nulls exist.</li>
+</ul>
 
 ### 4.4 Rename Columns
-<ul>DailyActivity – added space between words in column names.</ul>
-<ul>DailyActivity – ActivityDay -> Activity Date</ul>
-<ul>SleepDay – added space between words in column names.</ul>
-<ul>SleepDay – SleepDay -> Sleep Date</ul>
-<ul>HourlySteps – Added space for all column names.</ul>
+<ul>
+<li>DailyActivity – added space between words in column names.</li>
+<li>DailyActivity – ActivityDay -> Activity Date</li>
+<li>SleepDay – added space between words in column names.</li>
+<li>SleepDay – SleepDay -> Sleep Date</li>
+<li>HourlySteps – Added space for all column names.</li>
+</ul>
 
 ### 4.5 Join Tables Using Power Query
-DailyActivity table and SleepDay table were joined using Power Query using an Inner Join. This was done to connect sleep data to activity data and find connections between activity levels and amount of sleep.
+<p>DailyActivity table and SleepDay table were joined using Power Query using an Inner Join. This was done to connect sleep data to activity data and find connections between activity levels and amount of sleep.</p>
 
 ## 5. Analyze and Share
 ### 5.1 Activity Level - Steps
 <p>As an overview analysis of general activity levels, we will look at user daily steps to estimate their lifestyle activity level. This can be classified using information from https://www.10000steps.org.au/articles/healthy-lifestyles/counting-steps/ .</p>
-<ul>Sedentary - Less than 5,000 steps / day</ul>
-<ul>Low – 5,000 – 7,499 steps/day</ul>
-<ul>Somewhat Active – 7,500 - 9,999 steps / day</ul>
-<ul>Active - 10,000 - 12,499 steps / day</ul>
-<ul>Highly Active - 12,500+ steps / day</ul>
+<ul>
+<li>Sedentary - Less than 5,000 steps / day</li>
+<li>Low – 5,000 – 7,499 steps/day</li>
+<li>Somewhat Active – 7,500 - 9,999 steps / day</li>
+<li>Active - 10,000 - 12,499 steps / day</li>
+<li>Highly Active - 12,500+ steps / day</li>
+</ul>
 
-Most people are either Sedentary (25%) or fall into the range of being moderately active (53%). Device reminders to get up and welk, or even schedule walks using the device, would be beneficial to increase basic activity levels.
-Could provide data amongst all users in certain age brackets on their percentile score on steps/day. Example: 27 years old and 9,000 steps/day could fall at the 67th percentile. Not bad, but not great and could improve. This would incorporate a level of competitiveness if desired by the user.
+<p>Most people are either Sedentary (25%) or fall into the range of being moderately active (53%). Device reminders to get up and welk, or even schedule walks using the device, would be beneficial to increase basic activity levels.</p>
+<p>Could provide data amongst all users in certain age brackets on their percentile score on steps/day. Example: 27 years old and 9,000 steps/day could fall at the 67th percentile. Not bad, but not great and could improve. This would incorporate a level of competitiveness if desired by the user.</p>
 
 <img src="images/BBCS1.jpg?raw=true"/>
 
@@ -176,9 +191,11 @@ Using data of the number of steps taken per hour throughout the day, a pivot tab
 <img src="images/BBCS2.jpg?raw=true"/>
 
 There is a large dip in steps between 2pm – 4pm. Possible reasons: 
-<ul>Afternoon crash: reminders to drink water (could be tied to water bottle product), go outside, get up and move.</ul>
-<ul>User could decide what type of reminders they want.</ul>
-<ul>Busiest time at work (9-5 schedule): reminders to breathe, reset, meditate, mindfulness moment.</ul>
+<ul>
+<li>Afternoon crash: reminders to drink water (could be tied to water bottle product), go outside, get up and move.</li>
+<li>User could decide what type of reminders they want.</li>
+<li>Busiest time at work (9-5 schedule): reminders to breathe, reset, meditate, mindfulness moment.</li>
+</ul>
 
 ### 5.3 Sleep and Activity Connections
 Using Power Query, I combined the DailyActivity and SleepDay tables with an Inner Join.
