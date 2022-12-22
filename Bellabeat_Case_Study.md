@@ -232,11 +232,13 @@ Users tend to wear their devices around 60% - 70% of the day while around 66%-80
 <img src="images/BBCS9.jpg?raw=true"/>
 
 Users should try to be active for a larger portion of their day. Studies show the health benefits of staying active.
-<ul>
-<li><a href="https://www.everydayhealth.com/fitness/large-study-light-intensity-activity-health-benefits/">Light Activity Benefits</a></li>
-<li><a href="https://newsinhealth.nih.gov/2012/12/dont-just-sit-there">Staying Mobile</a></li>
-<li><a href="https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm">General Activity and Exercise</a></li>
-</ul>
+<br>
+<a href="https://www.everydayhealth.com/fitness/large-study-light-intensity-activity-health-benefits/">Light Activity Benefits</a>
+<br>
+<a href="https://newsinhealth.nih.gov/2012/12/dont-just-sit-there">Staying Mobile</a>
+<br>
+<a href="https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm">General Activity and Exercise</a>
+
 
 <table>
   <tr>
