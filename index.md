@@ -21,20 +21,20 @@
 <img src="images/DashImageBB.jpg?raw=true"/>
 
 ---
-[Denver AirBnB Market Analysis - Tableau](/pdf/sample_presentation.pdf)
+[Denver AirBnB Market Analysis - Tableau](/Denver_AirBnB_Analysis)
 <img src="images/DenverAirBnBDashImage.jpg?raw=true"/>
 
 ---
-[Bike Sales Dashboard - Excel](http://example.com/)
+[Bike Sales Dashboard - Excel](/Bike_Sales_Analysis)
 <img src="images/BikeSalesImage.jpg?raw=true"/>
 
 ---
 
-### Quick Links
+### Quick Links to GitHub
 
-- [Bellabeat Case Study - Excel](/Bellabeat_Case_Study)
-- [Denver AirBnB Market Analysis - Tableau](http://example.com/)
-- [Bike Sales Dashboard - Excel](http://example.com/)
+- [Bellabeat Case Study - Excel](https://github.com/mcc450/Bellabeat-Case-Study-Excel)
+- [Denver AirBnB Market Analysis - Tableau](https://github.com/mcc450/Denver-AirBnB-Market-Analysis-Tableau)
+- [Bike Sales Dashboard - Excel](https://github.com/mcc450/Bike-Sales-Dashboard-Excel)
 
 ---
 
