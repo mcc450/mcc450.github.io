@@ -17,7 +17,7 @@
 ## Completed Projects
 <p>Please see my GitHub website for downloadable files and coding repositories</p>
 
-[Michael McCarthy Resume](/Mccarthy Michael Resume.pdf)
+[View my Resume Here](/pdf/McCarthy_Michael_resume.pdf)
 
 
 
