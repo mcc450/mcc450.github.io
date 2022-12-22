@@ -17,6 +17,10 @@
 ## Completed Projects
 <p>Please see my GitHub website for downloadable files and coding repositories</p>
 
+[Michael McCarthy Resume](/Mccarthy Michael Resume.pdf)
+
+
+
 [Bellabeat Case Study - Excel](/Bellabeat_Case_Study)
 <img src="images/DashImageBB.jpg?raw=true"/>
 
