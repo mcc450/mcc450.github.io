@@ -16,13 +16,12 @@
 ### Processing Data
 <p>Excel was used to download and transfer the data to Tableau. Data was cleaned and validated using both built in Excel features, temporary COUNT functions, find and replace, and IF functions.</p>
 
+### <a href="https://public.tableau.com/app/profile/michael.mccarthy7631/viz/DenverAirBnBGeneralAnalysisDashboard/DenverAirBnBGeneralInformation">Tableau Visualization Here</a>
+
 ### Findings & Recommendations
 <p>This is an initial analysis of the Denver AirBnB data. Once narrowing down the market choices when looking for a rental property, further analyses would be needed when considering specific locations and types of property.</p>
 <p> Findings show that the vast majority of revenue come from 1 and 2 bedroom rentals, both about $50-51 million per year. Three bedroom rentals create nearly $26.5 million in revenue which would be another great option if looking to use the property for a part time family residence or vacation home as well.</p>
 <p>Zip codes in the center of the city have higher prices. This benefit would need to be checked against the probable higher property cost in a secondary cost-benefit analysis.</p>
 <p>A general analysis of revenue by time of year did not result in much beneficial information. The number of bookings would likely be a better judge of activity and possible revenue. The location of the property would also be a big factor. Being close to the mountains and ski resorts in the winter versus being close to the city in the summer could yield different benefits and activity throughout the year.</p>
-
-<script src="https://public.tableau.com/app/profile/michael.mccarthy7631/viz/DenverAirBnBGeneralAnalysisDashboard/DenverAirBnBGeneralInformation/javascripts/api/tableau-2.js"></script>
-<div id="tableauViz"></div>
 
   
