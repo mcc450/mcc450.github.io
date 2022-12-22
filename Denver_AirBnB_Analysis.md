@@ -22,6 +22,10 @@
 <p>Zip codes in the center of the city have higher prices. This benefit would need to be checked against the probable higher property cost in a secondary cost-benefit analysis.</p>
 <p>A general analysis of revenue by time of year did not result in much beneficial information. The number of bookings would likely be a better judge of activity and possible revenue. The location of the property would also be a big factor. Being close to the mountains and ski resorts in the winter versus being close to the city in the summer could yield different benefits and activity throughout the year.</p>
 
+<script src="https://public.tableau.com/app/profile/michael.mccarthy7631/viz/DenverAirBnBGeneralAnalysisDashboard/DenverAirBnBGeneralInformation/javascripts/api/tableau-2.js"></script>
+<div id="tableauViz"></div>
+
+
 <iframe src="https://public.tableau.com/app/profile/michael.mccarthy7631/viz/DenverAirBnBGeneralAnalysisDashboard/DenverAirBnBGeneralInformation:embed=yes&:display_count=yes"></iframe>
 
   
