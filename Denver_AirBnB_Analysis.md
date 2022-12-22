@@ -25,7 +25,4 @@
 <script src="https://public.tableau.com/app/profile/michael.mccarthy7631/viz/DenverAirBnBGeneralAnalysisDashboard/DenverAirBnBGeneralInformation/javascripts/api/tableau-2.js"></script>
 <div id="tableauViz"></div>
 
-
-<iframe src="https://public.tableau.com/app/profile/michael.mccarthy7631/viz/DenverAirBnBGeneralAnalysisDashboard/DenverAirBnBGeneralInformation:embed=yes&:display_count=yes"></iframe>
-
   
