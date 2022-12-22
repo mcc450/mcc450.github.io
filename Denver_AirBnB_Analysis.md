@@ -1,4 +1,4 @@
-#Denver AirBnB Market ANalysis in Tableau
+#Denver AirBnB Market Analysis in Tableau
 
 ###Summary
 <p>Using AirBnB data from Denver, Colorado, I performed a cursory market analysis to understand the basics of the rental market. Inspired by friends in Salt Lake City who have successfully ventured into the AirBnB market along with a video from "Alex the Analyst" on YouTube, I downloaded data from AirBnB here: http://insideairbnb.com/get-the-data/ and created a Tabelau visualization to summarize basic market findings and to support further exploration.</p>
