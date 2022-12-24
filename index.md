@@ -18,7 +18,7 @@
 <p>Please see my GitHub website for downloadable files and coding repositories</p>
 
 ---
-[View my Resume Here](/pdf/McCarthy_Michael_Resume.pdf)
+[View my Resume Here](/pdf/McCarthy_Michael_Resume_no_number.pdf)
 
 ---
 [Bellabeat Case Study - Excel](/Bellabeat_Case_Study)
