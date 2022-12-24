@@ -26,7 +26,7 @@
 
 ---
 [SQL for Data Science Coursework](https://github.com/mcc450/SQL-For-Data-Science-Specialization-Coursera)
-<img src="images/Coursera_Data_Science_Sample.jpg?raw=true"/>
+<img src="images/Data_Science_Coursera_Sample.jpg?raw=true"/>
 
 ---
 [Denver AirBnB Market Analysis - Tableau](/Denver_AirBnB_Analysis)
