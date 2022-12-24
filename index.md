@@ -44,7 +44,6 @@
 - [SQL for Data Science Coursework](https://github.com/mcc450/SQL-For-Data-Science-Specialization-Coursera)
 - [Denver AirBnB Market Analysis - Tableau](https://github.com/mcc450/Denver-AirBnB-Market-Analysis-Tableau)
 - [Bike Sales Dashboard - Excel](https://github.com/mcc450/Bike-Sales-Dashboard-Excel)
-- 
 
 ---
 
