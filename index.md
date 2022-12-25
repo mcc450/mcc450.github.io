@@ -47,6 +47,7 @@
 - [Bellabeat Case Study - Excel](https://github.com/mcc450/Bellabeat-Case-Study-Excel)
 - [SQL for Data Science Coursework](https://github.com/mcc450/SQL-For-Data-Science-Specialization-Coursera)
 - [Denver AirBnB Market Analysis - Tableau](https://github.com/mcc450/Denver-AirBnB-Market-Analysis-Tableau)
+- [Olympic Rowing Athlete Analysis - SQL & Excel - Coming Soon!]
 - [Bike Sales Dashboard - Excel](https://github.com/mcc450/Bike-Sales-Dashboard-Excel)
 
 ---
