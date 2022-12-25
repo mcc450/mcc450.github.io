@@ -33,7 +33,7 @@
 <img src="images/DenverAirBnBDashImage.jpg?raw=true"/>
 
 ---
-[Olympic Rowing Athlete Analysis - SQL & Excel - Coming Soon!]
+Olympic Rowing Athlete Analysis - SQL & Excel - Coming Soon!
 <img src="images/rowing_analysis_thumbnail.jpg?raw=true"/>
 
 
