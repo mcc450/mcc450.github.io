@@ -15,7 +15,7 @@
 ---
 
 ## Completed Projects
-<p>Please see my GitHub website for downloadable files and coding repositories</p>
+<p>Please see my <a href="https://github.com/mcc450">GitHub website</a> for downloadable files and coding repositories</p>
 
 ---
 [View my Resume Here](/pdf/McCarthy_Michael_Resume_no_number.pdf)
