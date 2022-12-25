@@ -19,6 +19,10 @@
 
 ---
 [View my Resume Here](/pdf/McCarthy_Michael_Resume_no_number.pdf)
+<br><br>
+ <a href="https://www.linkedin.com/in/michael-mccarthy-698000a5">View My LinkedIn Profile</a>
+ <br><br>
+ <a href="https://public.tableau.com/app/profile/michael.mccarthy7631"> View My Tableau Profile</a>
 
 ---
 [Bellabeat Case Study - Excel](/Bellabeat_Case_Study)
