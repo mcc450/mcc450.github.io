@@ -29,7 +29,7 @@
 <img src="images/DashImageBB.jpg?raw=true"/>
 
 ---
-[Olympic Rowing Athlete Analysis - SQL & Excel](/Olympic_Rowing_Athlete_Analysis)
+[Olympic Rowing Athlete Analysis - SQL & Tableau](/Olympic_Rowing_Athlete_Analysis)
 <img src="images/rowing_analysis_thumbnail.jpg?raw=true"/>
 ---
 [SQL for Data Science Coursework](https://github.com/mcc450/SQL-For-Data-Science-Specialization-Coursera)
@@ -50,7 +50,7 @@
 - [Bellabeat Case Study - Excel](https://github.com/mcc450/Bellabeat-Case-Study-Excel)
 - [SQL for Data Science Coursework](https://github.com/mcc450/SQL-For-Data-Science-Specialization-Coursera)
 - [Denver AirBnB Market Analysis - Tableau](https://github.com/mcc450/Denver-AirBnB-Market-Analysis-Tableau)
-- Olympic Rowing Athlete Analysis - SQL & Excel - Coming Soon!
+- [Olympic Rowing Athlete Analysis - SQL & Tableau](https://github.com/mcc450/Olympic-Rowing-Analysis)
 - [Bike Sales Dashboard - Excel](https://github.com/mcc450/Bike-Sales-Dashboard-Excel)
 
 ---
