@@ -111,7 +111,7 @@
 <p>Nested subqueries were used to first filter out athletes and coxswains that did not meet our criteria. Below is a sample of the final table created. It was also necessary to use the DISTINCT function on the Event column as this would only count one medal for that team and year since the query was also using GROUP BY Team and Year.
 </p>
 
-<img src="images/Country Event Wins By Team And Year.png">
+<img src="images/Country Event Wins By Year And Team.png">
 
 
 
