@@ -29,6 +29,9 @@
 <img src="images/DashImageBB.jpg?raw=true"/>
 
 ---
+[Olympic Rowing Athlete Analysis - SQL & Excel](/Olympic_Rowing_Athlete_Analysis)
+<img src="images/rowing_analysis_thumbnail.jpg?raw=true"/>
+---
 [SQL for Data Science Coursework](https://github.com/mcc450/SQL-For-Data-Science-Specialization-Coursera)
 <img src="images/Data_Science_Coursera_Sample.jpg?raw=true"/>
 
@@ -37,10 +40,6 @@
 <img src="images/DenverAirBnBDashImage.jpg?raw=true"/>
 
 ---
-Olympic Rowing Athlete Analysis - SQL & Excel - Coming Soon!
-<img src="images/rowing_analysis_thumbnail.jpg?raw=true"/>
-
-
 [Bike Sales Dashboard - Excel](/Bike_Sales_Analysis)
 <img src="images/BikeSalesImage.jpg?raw=true"/>
 
