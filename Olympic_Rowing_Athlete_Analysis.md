@@ -97,7 +97,7 @@
 <table>
   <tr>
     <td><img src="images/Excel Age By Country Viz.png"></td>
-    <td><img src="images/Avg Age by Country and Medal SQL.png"></td>
+    <td><img src="images/Avg Age by Country And Medal SQL.png"></td>
   </tr>
 </table>
 
