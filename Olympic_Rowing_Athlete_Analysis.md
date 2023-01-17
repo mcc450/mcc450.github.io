@@ -26,7 +26,7 @@
 <p>After filtering, the data was cleaned and validated before being exported. The only  abnormalities were found except for extremely young ages for rowing athletes which went as low as 11. All of these young ages, under 17, were coxswains in their team event. Almost all of the events with an athlete under the age of 17 are from at least 40 years ago and the trend has not continued. This is partially due to the sport requiring a minimum weight for both men's and women's coxswains.
 </p>
 
-###1. Height and Weight Trends
+### 1. Height and Weight Trends
 <p>The initial analysis is average height and weight by event, split between medalists and non-medalists. Calculations are inaccurate. They include the heights and weights of coxswains (typically much smaller than athletes). We will assume any athlete that is over 68kg is a rower, not a coxswain. This weight was chosen to not exclude lightweight events.
 </p>
 
