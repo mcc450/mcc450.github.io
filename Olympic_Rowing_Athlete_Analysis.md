@@ -17,6 +17,24 @@
   <li>Is there a pattern in a country’s performance or athlete demographics and winning events?</li>
 </ol>
 
+### Findings:
+#### Using events popular today (8+, 4-, 2-, 4x, 2x, 1x)
+<ul>
+  <li> 1x medalists are the 2nd tallest and heaviest athletes.</li>
+  <li> 8+ medalists are the tallest and the 2nd heaviest athletes.</li>
+  <li> 4- medalists are the 3rd tallest and essentially tied for the 4th heaviest</li>
+</ul>
+<p>These findings match with anecdotal evidence. The 3 events listed above are prioritized due to their prestige in the rowing community. Height is the main advantage and it follows that the most copetetive events have the tallest athletes.
+ </p>
+
+<ul>
+  <li> 1x medalists are by far the oldest averaging 28.5 years.</li>
+    <ul>
+      <li>This combined with Height and Weight makes the 2020 (2021) Olympics results all the more schocking. 25 year old Greek rower, Stfanos Ntoiskos, won Gold and set an olympic record time at 186cm and 73kg. He is 3.5 years younger, 8cm (3.15 inches) shorter, and 22.5kg (49.6lbs) lighter than the average 1x medalist. A truly shocking difference from the norm considering his dominance in the final race over two previous olympic medalists.</li>
+    </ul>
+  <li> All other events are only separated by 1.5 years (26.1 - 27.6).</li>
+</ul>
+ 
 ### Preparing the Data
 <p>The raw data was sourced from Maven Analytics’ “120 Years of Olympic History” dataset. This dataset is large and contained more events than needed.</p>
 
