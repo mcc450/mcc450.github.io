@@ -1,7 +1,7 @@
-# Olympic Rowing Athlete Analysis in SQL and Tableau
+# Olympic Rowing Athlete Analysis in SQL - ad hoc analysis
 
 ### Project description: 
-<p>Using Olympic athlete data sourced from Maven Analytic, I decided to answer some questions about trends in winning boat crews in the sport of Rowing using SQL and Tableau. There are common beliefs in the community about what type of athlete performs best in certain events and this analysis will seek to see if there is any validity to those claims along with other questions that arise during the process.
+<p>Using Olympic athlete data sourced from Maven Analytic, I decided to answer some questions about trends in winning boat crews in the sport of Rowing using SQL. There are common beliefs in the community about what type of athlete performs best in certain events and this analysis will seek to see if there is any validity to those claims along with other questions that arise during the process.
 </p>
 
 ### All SQL Code used can be found on GitHub <a href="https://github.com/mcc450/Olympic-Rowing-Analysis">HERE</a>.
