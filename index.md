@@ -17,12 +17,12 @@
 ## Profiles and Repositories
 <table>
   <tr>
-    <th><a href="https://github.com/mcc450/mcc450.github.io/blob/master/pdf/McCarthy_Michael_Resume_no_number.pdf">Resume</a></th>
-    <th><a href="https://www.linkedin.com/in/michael-mccarthy-698000a5">LinkedIn Profile</a></th>
+    <td><a href="https://github.com/mcc450/mcc450.github.io/blob/master/pdf/McCarthy_Michael_Resume_no_number.pdf">Resume</a></td>
+    <td><a href="https://www.linkedin.com/in/michael-mccarthy-698000a5">LinkedIn Profile</a></td>
   </tr>
   <tr>
-    <th><a href="https://github.com/mcc450">GitHub</a></th>
-    <th><a href="https://public.tableau.com/app/profile/michael.mccarthy7631">Tableau Portfolio</a></th>
+    <td><a href="https://github.com/mcc450">GitHub</a></td>
+    <td><a href="https://public.tableau.com/app/profile/michael.mccarthy7631">Tableau Portfolio</a></td>
   <tr>
 </table>
  
