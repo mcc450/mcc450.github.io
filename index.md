@@ -15,16 +15,11 @@
 ---
 
 ## Profiles and Repositories
-<table>
-  <tr>
-    <td><a href="https://github.com/mcc450/mcc450.github.io/blob/master/pdf/McCarthy_Michael_Resume_no_number.pdf">Resume</a></td>
-    <td><a href="https://www.linkedin.com/in/michael-mccarthy-698000a5">LinkedIn Profile</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mcc450">GitHub</a></td>
-    <td><a href="https://public.tableau.com/app/profile/michael.mccarthy7631">Tableau Portfolio</a></td>
-  <tr>
-</table>
+
+<a href="https://github.com/mcc450/mcc450.github.io/blob/master/pdf/McCarthy_Michael_Resume_no_number.pdf">Resume</a>
+<a href="https://www.linkedin.com/in/michael-mccarthy-698000a5">LinkedIn Profile</a>
+<a href="https://github.com/mcc450">GitHub</a>
+<a href="https://public.tableau.com/app/profile/michael.mccarthy7631">Tableau Portfolio</a>
  
 ---
 [Bellabeat Case Study - Excel](/Bellabeat_Case_Study)
