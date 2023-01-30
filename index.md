@@ -14,16 +14,18 @@
 
 ---
 
-## Completed Projects
-<p>Please see my <a href="https://github.com/mcc450">GitHub website</a> for downloadable files and coding repositories</p>
-
----
-[View my Resume Here](/pdf/McCarthy_Michael_Resume_no_number.pdf)
-<br><br>
- <a href="https://www.linkedin.com/in/michael-mccarthy-698000a5">View My LinkedIn Profile</a>
- <br><br>
- <a href="https://public.tableau.com/app/profile/michael.mccarthy7631"> View My Tableau Profile</a>
-
+## Profiles and Repositories
+<table>
+  <tr>
+    <th><a href="https://github.com/mcc450/mcc450.github.io/blob/master/pdf/McCarthy_Michael_Resume_no_number.pdf">Resume</a></th>
+    <th><a href="https://www.linkedin.com/in/michael-mccarthy-698000a5">LinkedIn Profile</a></th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/mcc450">GitHub</a></th>
+    <th><a href="https://public.tableau.com/app/profile/michael.mccarthy7631">Tableau Portfolio</a></th>
+  <tr>
+</table>
+ 
 ---
 [Bellabeat Case Study - Excel](/Bellabeat_Case_Study)
 <img src="images/DashImageBB.jpg?raw=true"/>
