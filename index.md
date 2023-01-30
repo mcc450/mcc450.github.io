@@ -17,8 +17,11 @@
 ## Profiles and Repositories
 
 <a href="https://github.com/mcc450/mcc450.github.io/blob/master/pdf/McCarthy_Michael_Resume_no_number.pdf">Resume</a>
+<br>
 <a href="https://www.linkedin.com/in/michael-mccarthy-698000a5">LinkedIn Profile</a>
+<br>
 <a href="https://github.com/mcc450">GitHub</a>
+<br>
 <a href="https://public.tableau.com/app/profile/michael.mccarthy7631">Tableau Portfolio</a>
  
 ---
