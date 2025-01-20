@@ -16,7 +16,7 @@
 
 ## Profiles and Repositories
 
-<a href="https://mcc450.github.io/pdf/McCarthy_Michael_Resume_no_number.pdf" target="_blank">PDF.</a>
+<a href="https://mcc450.github.io/pdf/McCarthy_Michael_Resume_no_number.pdf" target="_blank">Resume</a>
 <br>
 <a href="https://www.linkedin.com/in/michael-mccarthy-698000a5">LinkedIn Profile</a>
 <br>
