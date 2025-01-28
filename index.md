@@ -25,7 +25,7 @@
 <a href="https://public.tableau.com/app/profile/michael.mccarthy7631">Tableau Portfolio</a>
 
 ---
-[Predicting Risk of Heart Disease Using 'Non-Typical' Risk Factors - R](/Heart Disease Predictive Model)
+[Predicting Risk of Heart Disease Using 'Non-Typical' Risk Factors - R](/Heart_Disease_Model)
 <img src="images/DashImageHDPM.jpg?raw=true"/>
 
 ---
