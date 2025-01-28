@@ -23,7 +23,11 @@
 <a href="https://github.com/mcc450">GitHub</a>
 <br>
 <a href="https://public.tableau.com/app/profile/michael.mccarthy7631">Tableau Portfolio</a>
- 
+
+---
+[Predicting Risk of Heart Disease Using 'Non-Typical' Risk Factors - R](/Heart Disease Predictive Model)
+<img src="images/DashImageHDPM.jpg?raw=true"/>
+
 ---
 [Bellabeat Case Study - Excel](/Bellabeat_Case_Study)
 <img src="images/DashImageBB.jpg?raw=true"/>
