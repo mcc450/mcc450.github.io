@@ -10,11 +10,11 @@
 ## Project Methodology & Skills Used
 
 <ul>
-<li> Data Preprocessing: Handling missing values, encoding categorical variables, and removing irrelevant features </li>
-<li> Feature Engineering: Incorporating interaction terms to capture complex relationships </li>
-<li> Predictive Modeling: Training logistic regression models with 5-fold cross-validation </li>
-<li> Model Evaluation: Using AUC-ROC curves, confusion matrices, and AIC values to assess performance </li>
-<li> Multicollinearity Analysis: Calculating Variance Inflation Factors (VIF) to ensure model stability </li>
-<li> Variable Selection: Ranking predictors based on significance (p-values, z-scores) to identify key risk factors </li>
-<li> Results & Reporting: Exporting significant findings for further analysis and visualization </li>
+<li> <b>Data Preprocessing:</b> Handling missing values, encoding categorical variables, and removing irrelevant features </li>
+<li> <b>Feature Engineering:</b> Incorporating interaction terms to capture complex relationships </li>
+<li> <b>Predictive Modeling:</b> Training logistic regression models with 5-fold cross-validation </li>
+<li> <b>Model Evaluation:</b> Using AUC-ROC curves, confusion matrices, and AIC values to assess performance </li>
+<li> <b>Multicollinearity Analysis:</b> Calculating Variance Inflation Factors (VIF) to ensure model stability </li>
+<li> <b>Variable Selection:</b> Ranking predictors based on significance (p-values, z-scores) to identify key risk factors </li>
+<li> <b>Results & Reporting:</b> Exporting significant findings for further analysis and visualization </li>
 </ul>
