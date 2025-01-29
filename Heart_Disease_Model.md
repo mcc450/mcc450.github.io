@@ -18,3 +18,29 @@
 <li> <b>Variable Selection:</b> Ranking predictors based on significance (p-values, z-scores) to identify key risk factors </li>
 <li> <b>Results & Reporting:</b> Exporting significant findings for further analysis and visualization </li>
 </ul>
+
+
+## Key Findings
+
+<ul>
+<li>Best Model - "The "Full" logistic regression model, using all variables, performs best with 5-fold cross-validation</li>
+</ul>
+<img src="images/heart_model_results.jpg?raw=true"/>
+
+<ul>
+<li><b>Minimal Gains:</b> No significant performance improvement from splitting variables or using "Non-Standard" predictors</li>
+<li><b>Feature Selection Impact:</b> Interaction variables and feature exclusions did not improve model performance</li>
+<li><b>Comprehensive Prediction:</b> Using all variables ensures the most comprehensive and simple risk prediction</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
