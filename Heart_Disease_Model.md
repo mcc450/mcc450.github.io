@@ -1,5 +1,6 @@
 # Heart Disease Predictive Model - R
-<p>View the project repository with full code and presentation here</p>
+
+<p>View the project repository with full code and presentation here.</p>
 [Full Project](https://github.com/mcc450/Heart-Disease-Predictive-Model)
 
 <p>This project was completed as a final assignment in my Masters of Analytics coursework. This analysis is titled 'Predicting Risk of Heart Disease Using Non-Typical Risk Factors'. This project was completed with 2 additional teammates. I was responsible for developing the scope and direction of the project, as well as coding, analysis, and implementation plan.</p>
