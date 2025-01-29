@@ -52,7 +52,7 @@
 
 ### Quick Links to GitHub
 
-- [Predicting Risk of Heart Disease Using 'Non-Typical' Risk Factors - R](https://github.com/mcc450/)
+- [Predicting Risk of Heart Disease Using 'Non-Typical' Risk Factors - R](https://github.com/mcc450/Heart-Disease-Predictive-Model)
 - [Bellabeat Case Study - Excel](https://github.com/mcc450/Bellabeat-Case-Study-Excel)
 - [SQL for Data Science Coursework](https://github.com/mcc450/SQL-For-Data-Science-Specialization-Coursera)
 - [Denver AirBnB Market Analysis - Tableau](https://github.com/mcc450/Denver-AirBnB-Market-Analysis-Tableau)
